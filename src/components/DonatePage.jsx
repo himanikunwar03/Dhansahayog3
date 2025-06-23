@@ -18,7 +18,7 @@ function DonatePage({ onDonation }) {
 
   return (
     <div className="page">
-      <div className="donate-container">
+      <div className="donate-containr">
         <div className="donate-header">
           <h1>Make a Donation</h1>
           <p>Your contribution helps us create positive change in communities across Nepal</p>
