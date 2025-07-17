@@ -496,7 +496,7 @@ function App() {
 
   return (
     <div className="app">
-      {renderHeader()}
+      {renderHeader()}/
       {renderNotifications()}
       <main className="main">
         {renderCurrentPage()}
